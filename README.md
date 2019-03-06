@@ -5,7 +5,7 @@
 
 Hacking is building things that you always wanted to have but no one has built it yet. It's to come up with an amazing idea and work tirelessly on it. It is to fail, fail again and fail better. Try out new things and learn while doing that. It's to work together, collaborate and build things that are innovative. It is to be a better programmer.
 
-With that spirit, [VinnovateIT](https://vinnovateit.com/) is conducting a hackathon, **VinHack** and invites all developers and hackathon enthusiasts to participate in an interesting and engaging hackathon.
+**With that spirit, [VinnovateIT](https://vinnovateit.com/) is conducting a hackathon, [VinHack](https://vinhack.hackerearth.com/) and invites all developers and hackathon enthusiasts to participate in an interesting and engaging hackathon.**
 
 ## Everyone is welcome!
 Whether you’re writing your first lines of HTML, building a AR/VR app, VinHack is just the place for you. We will have mentors to help make your idea happen. You will be able to exhibit your skills without worrying about any mortal needs. We will take care of everything :)
@@ -29,6 +29,10 @@ Whether you’re writing your first lines of HTML, building a AR/VR app, VinHack
 | **End Date & Time**  | ***9:30 PM, 23<sup>rd</sup> March***  |
 | **Team Size**  | **Min - 2 & Max - 5**  |
 | **Venue**  | **SJT, VIT Vellore**  |
+
+## Registration
+
+**[Click here](https://vinhack.hackerearth.com/)** to register on Hackerearth.
 
 ## FAQs
 
