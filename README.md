@@ -9,6 +9,18 @@ With that spirit, [VinnovateIT](https://vinnovateit.com/) is conducting a hackat
 ## Everyone is welcome!
 Whether you’re writing your first lines of HTML, building a AR/VR app, VinHack is just the place for you. We will have mentors to help make your idea happen. You will be able to exhibit your skills without worrying about any mortal needs. We will take care of everything :)
 
+## Why should you attend?
+
+#### To make new friends
+> **VinHack** provides a brilliant opportunity for you and your team to forge professional contacts and make new friends. With over 300 developers and designers gathering from all the engineering branches from VIT Vellore, grab your chance of connecting with people to discuss ideas and opportunities.
+
+#### To learn
+> Hackathons are a great way to give back to the community. Mentoring beginners is always helpful for them and rewarding for us. We’re going to have mentors from a number of different organizations present at the venue. Whenever you’re stuck on a problem or need suggestions they'll always be within a hand’s reach.
+
+#### To build
+> We are inviting everyone to build on ideas of their choice. Watching software materialize from pure thought, part by part is the closest to experiencing magic we have ever got to. And we’re excited to see that magic happen all over again!
+
+
 ## More Info
 
 | Start Date & Time  | *8:00 AM, 22<sup>nd</sup> March*  |
@@ -65,4 +77,6 @@ No, anyone member should be present all the time. The team should be present for
 
 ## Stay Updated!
 
-Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]** on your timeline.
+Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]()** on your timeline.
+
+### Hope to see you there!
