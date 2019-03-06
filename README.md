@@ -1,3 +1,4 @@
+![VinHack Logo](./vinhack-logo.jpeg)
 # VinHack - A Hackathon by [VinnovateIT](https://vinnovateit.com/)
 
 > The official repository for VinHack, upcoming hackathon by VinnovateIT!
