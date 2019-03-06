@@ -1,4 +1,3 @@
-![VinHack Logo](./vinhack-logo.jpeg)
 # VinHack - A Hackathon by [VinnovateIT](https://vinnovateit.com/)
 
 [![VinHack](https://img.shields.io/badge/VinHack-2K19-orange.svg?style=for-the-badge)](https://vinhack.hackerearth.com/)
