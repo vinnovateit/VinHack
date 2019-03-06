@@ -11,6 +11,7 @@ Hacking is building things that you always wanted to have but no one has built i
 Whether you’re writing your first lines of HTML, building a AR/VR app, VinHack is just the place for you. We will have mentors to help make your idea happen. You will be able to exhibit your skills without worrying about any mortal needs. We will take care of everything :)
 
 ## Why should you attend?
+[![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://vinhack.hackerearth.com/)
 
 #### To make new friends
 > **VinHack** provides a brilliant opportunity for you and your team to forge professional contacts and make new friends. With over 300 developers and designers gathering from all the engineering branches in [VIT Vellore](http://www.vit.ac.in/), grab your chance of connecting with people to discuss ideas and opportunities.
@@ -24,6 +25,8 @@ Whether you’re writing your first lines of HTML, building a AR/VR app, VinHack
 
 ## More Info
 
+[![FAQs](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://vinhack.hackerearth.com/)
+
 | Start Date & Time  | *8:00 AM, 22<sup>nd</sup> March*  |
 |---|---|
 | **End Date & Time**  | ***9:30 PM, 23<sup>rd</sup> March***  |
@@ -32,9 +35,13 @@ Whether you’re writing your first lines of HTML, building a AR/VR app, VinHack
 
 ## Registration
 
+[![18+](https://forthebadge.com/images/badges/ages-18.svg)](https://vinhack.hackerearth.com/)
+
 **[Click here](https://vinhack.hackerearth.com/)** to register on Hackerearth.
 
 ## FAQs
+[![FAQs](https://forthebadge.com/images/badges/check-it-out.svg)](https://vinhack.hackerearth.com/)
+
 
 <details open>
     <summary><strong>Do I need to have any specific qualifications to be a participant for the Hackathon?</strong></summary>
@@ -73,6 +80,8 @@ No, anyone member should be present all the time. The team should be present for
 
 ## Cash Prizes
 
+[![Prizes](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://vinhack.hackerearth.com/)
+
 - First Prize - ***INR 5000/-***
 - Second Prize - ***INR 3000/-***
 - Third Prize - ***INR 2000/-***
@@ -80,6 +89,8 @@ No, anyone member should be present all the time. The team should be present for
 > There will be swags for all the participants!
 
 ## Code Reviewers
+
+[![Reviewers](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://github.com/vinitshahdeo)
 
 - [Vinit Shahdeo](https://github.com/vinitshahdeo)
 - [Shagun Khemka](https://github.com/S2606)
