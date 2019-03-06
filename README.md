@@ -1,7 +1,7 @@
 ![VinHack Logo](./vinhack-logo.jpeg)
 # VinHack - A Hackathon by [VinnovateIT](https://vinnovateit.com/)
 
-> The official repository for VinHack, upcoming hackathon by VinnovateIT!
+> The official repository for VinHack, upcoming hackathon by VinnovateIT! [Click here](https://vinhack.hackerearth.com/)** to register on Hackerearth.
 
 Hacking is building things that you always wanted to have but no one has built it yet. It's to come up with an amazing idea and work tirelessly on it. It is to fail, fail again and fail better. Try out new things and learn while doing that. It's to work together, collaborate and build things that are innovative. It is to be a better programmer.
 
@@ -44,6 +44,11 @@ If you love to code, you are more than welcome to participate in the Hackathon.
 <details open>
     <summary><strong>What is the cost of the hackathon?</strong></summary>
 It's 100/- each individual.
+</details>
+<br>
+<details open>
+    <summary><strong>Can I register individual?</strong></summary>
+Yes! If you don't team, we'll team up during the hackathon.
 </details>
 <br>
 <details open>
