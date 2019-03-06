@@ -31,19 +31,19 @@ It's 100/- each individual.
 <br>
 <details open>
     <summary><strong>How do I submit what I have made for the Hackathon? </strong></summary>
-You have to submit your source code on our [GitHub](https://github.com/vinnovateit/VinHack/) repository.
+You have to submit your source code on our GitHub repository.
 </details>
 <br>  
 <details open>
     <summary><strong>Do we need to have the entire idea fully working? </strong></summary>
 The entire idea need not be fully implemented however, the submission should be functional so that it can be reviewed by the judges.
 </details>
-
+<br>
 <details open>
     <summary><strong>Does the entire team have to be available for the entire duration of the Hackathon?  </strong></summary>
 No, anyone member should be present all the time. The team should be present for the pitching round.
 </details>
-
+<br>
 <details open>
     <summary><strong>Does the entire team have to be available for the entire duration of the Hackathon?  </strong></summary>
 No, anyone member should be present all the time. The team should be present for the pitching round.
@@ -51,9 +51,9 @@ No, anyone member should be present all the time. The team should be present for
 
 ## Cash Prizes
 
-- First Prize - INR 5000/-
-- Second Prize - INR 3000/-
-- Third Prize - INR 2000/-
+- First Prize - ***INR 5000/-***
+- Second Prize - ***INR 3000/-***
+- Third Prize - ***INR 2000/-***
 
 > There will be swags for all the participants!
 
@@ -63,3 +63,6 @@ No, anyone member should be present all the time. The team should be present for
 - [Shagun Khemka](https://github.com/S2606)
 - [Shreya Anand](https://github.com/ShreyaAnand)
 
+## Stay Updated!
+
+Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]** on your timeline.
