@@ -12,7 +12,7 @@ Whether you’re writing your first lines of HTML, building a AR/VR app, VinHack
 ## Why should you attend?
 
 #### To make new friends
-> **VinHack** provides a brilliant opportunity for you and your team to forge professional contacts and make new friends. With over 300 developers and designers gathering from all the engineering branches from VIT Vellore, grab your chance of connecting with people to discuss ideas and opportunities.
+> **VinHack** provides a brilliant opportunity for you and your team to forge professional contacts and make new friends. With over 300 developers and designers gathering from all the engineering branches in [VIT Vellore](http://www.vit.ac.in/), grab your chance of connecting with people to discuss ideas and opportunities.
 
 #### To learn
 > Hackathons are a great way to give back to the community. Mentoring beginners is always helpful for them and rewarding for us. We’re going to have mentors from a number of different organizations present at the venue. Whenever you’re stuck on a problem or need suggestions they'll always be within a hand’s reach.
