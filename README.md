@@ -3,7 +3,7 @@
 [![VinHack](https://img.shields.io/badge/VinHack-2K19-orange.svg?style=for-the-badge)](https://vinhack.hackerearth.com/)
 [![VinnovateIT](https://img.shields.io/badge/VinnovateIT-VIT-dodgerblue.svg?style=for-the-badge)](https://vinnovateit.com/)
 
-```
+```js
 
  __     ___       _   _            _    
  \ \   / (_)_ __ | | | | __ _  ___| | __
@@ -115,7 +115,7 @@ Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep your
 
 ### Hope to see you there!
 
-```
+```js
 
   _    _            _     __          ___ _   _       _    _     _ 
  | |  | |          | |    \ \        / (_) | | |     | |  | |   | |
