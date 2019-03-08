@@ -3,6 +3,22 @@
 [![VinHack](https://img.shields.io/badge/VinHack-2K19-orange.svg?style=for-the-badge)](https://vinhack.hackerearth.com/)
 [![VinnovateIT](https://img.shields.io/badge/VinnovateIT-VIT-dodgerblue.svg?style=for-the-badge)](https://vinnovateit.com/)
 
+```
+
+====================================================
+=  ====  =============  ====  ================  ====
+=  ====  =============  ====  ================  ====
+=  ====  =============  ====  ================  ====
+=  ====  ==  ==  = ===  ====  ===   ====   ===  =  =
+=   ==   ======     ==        ==  =  ==  =  ==    ==
+==  ==  ===  ==  =  ==  ====  =====  ==  =====   ===
+==  ==  ===  ==  =  ==  ====  ===    ==  =====    ==
+===    ====  ==  =  ==  ====  ==  =  ==  =  ==  =  =
+====  =====  ==  =  ==  ====  ===    ===   ===  =  =
+====================================================
+
+```
+
 > The official repository for VinHack, upcoming hackathon by VinnovateIT! **[Click here](https://vinhack.hackerearth.com/)** to register on Hackerearth.
 
 Hacking is building things that you always wanted to have but no one has built it yet. It's to come up with an amazing idea and work tirelessly on it. It is to fail, fail again and fail better. Try out new things and learn while doing that. It's to work together, collaborate and build things that are innovative. It is to be a better programmer.
