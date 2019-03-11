@@ -109,6 +109,12 @@ No, anyone member should be present all the time. The team should be present for
 - [Shagun Khemka](https://github.com/S2606)
 - [Shreya Anand](https://github.com/ShreyaAnand)
 
+## Sponsors
+
+| [MoveInSync](https://www.moveinsync.com/)  | [HackerEarth](https://www.hackerearth.com/)  | [Bugsee](https://www.bugsee.com/)  | [Coding Blocks](https://codingblocks.com/)   |
+|---|---|---|---|
+| <img src="./sponsors/moveinsync.png" width="64px" height="64px">  | <img src="./sponsors/HackerEarth_logo.png" width="64px" height="64px">  | <img src="./sponsors/bugsee.png" width="64px" height="64px">  | <img src="./sponsors/codingblocks-logo.png" width="64px" height="64px">  |
+
 ## Stay Updated!
 
 Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]()** on your timeline.
