@@ -164,6 +164,21 @@ Curated list of boilerplates and templates to enhance productivity.
 
 [![Help](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://github.com/vinitshahdeo)
 
+```
+
+
+  ____   ____ _____ _      ______ _____  _____  _            _______ ______  _____ 
+ |  _ \ / __ \_   _| |    |  ____|  __ \|  __ \| |        /\|__   __|  ____|/ ____|
+ | |_) | |  | || | | |    | |__  | |__) | |__) | |       /  \  | |  | |__  | (___  
+ |  _ <| |  | || | | |    |  __| |  _  /|  ___/| |      / /\ \ | |  |  __|  \___ \ 
+ | |_) | |__| || |_| |____| |____| | \ \| |    | |____ / ____ \| |  | |____ ____) |
+ |____/ \____/_____|______|______|_|  \_\_|    |______/_/    \_\_|  |______|_____/ 
+                                                                                   
+                                                                                   
+
+
+```
+
 ### Android Development
 
 *Boilerplates and templates for Android*
