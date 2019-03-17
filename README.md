@@ -102,6 +102,12 @@ No, anyone member should be present all the time. The team should be present for
 
 > There will be swags for all the participants!
 
+## Problem Statements
+
+[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://vinnovateit.com)
+
+> Will be made live once the hack starts!
+
 ## Where to upload your code?
 
 > Whatever code you write must be pushed on GitHub for the review. The source code will be made open source under [VinnovateIT](https://github.com/vinnovateit/) organization. **For any kind of help, call any of our Coordinators!**
@@ -284,6 +290,8 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
 
 ## Documentation
+
+![DOCs](https://inch-ci.org/assets/badge-example-b71f9e833318f66f64b3f23877113051.svg)
 
 [![You didn't ask for this](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/vinitshahdeo) [![Documentation](https://forthebadge.com/images/badges/not-an-issue.svg)](https://github.com/vinitshahdeo) 
 
