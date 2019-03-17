@@ -102,6 +102,18 @@ No, anyone member should be present all the time. The team should be present for
 
 > There will be swags for all the participants!
 
+## Where to upload your code?
+
+> Whatever code you write must be pushed on GitHub for the review. The source code will be made open source under [VinnovateIT](https://github.com/vinnovateit/) organization. **For any kind of help, call any of our Coordinators!**
+
+```bash
+
+ git clone https://github.com/vinnovateit/Team-1
+ git commit 
+ git push
+ 
+```
+
 ## Few useful resources
 
 ### Awesome boilerplates
@@ -325,7 +337,7 @@ MAC
 
 [![Public APIs](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://github.com/vinitshahdeo)
 
-## Index
+### Index
 
 * [Animals](#animals)
 * [Anime](#anime)
