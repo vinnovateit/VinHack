@@ -122,8 +122,6 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Go](#go)
     - [Browser Webextensions](#browser-webextensions)
     - [Websites](#websites)
-    - [IDE Templates](#ide-templates)
-    - [GitHub](#github)
 
 
 ### Android Development
@@ -274,42 +272,47 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ## Documentation
 
-### Documentation
-Backend
+**Backend**
+
 - [express-generator](https://www.npmjs.com/package/express-generator) 
 - [SocketIO](https://socket.io/docs/)
 - [PassportOauth2](http://www.passportjs.org/docs/)
 - [PyFlask Documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
 
 
-App Development
+**App Development**
+
 - [retrofit](https://square.github.io/retrofit/)
 - [volley](https://developer.android.com/training/volley/)
 - [fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 - [FireBase Authentication](https://firebase.google.com/docs/auth/android/custom-auth)
 - [Flutter](http://flutter.io/docs)
 
-Cloud Services
+**Cloud Services**
+
 - [DigitalOcean](http://digitalocean.com/)
 - [AWS EC2](https://aws.amazon.com/ec2/)
 - [Heroku](https://www.heroku.com/)
 
-Frontend
+**Frontend**
+
 - [React BoilerPlate](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs) 
 - [MaterializeCSS](https://materializecss.com/)
 
-AI and ML
+**AI and ML**
+
 - [Pytorch](https://pytorch.org/docs/stable/index.html)
 - [Tensorflow](https://www.tensorflow.org/guide)
 - [Keras](https://keras.io/)
 - [OpenCV](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
 
- UI and UX Design
+**UI and UX Design**
 
 MAC
 - [Sketch](https://www.sketchapp.com/docs/)
 
-Windows
+**Windows**
+
 - [UI Design Kit](https://www.adobe.com/in/products/xd/ui-design-kits.html)
 - [Material Design Kit](https://materialdesignkit.com/)
 - [Webflow](https://webflow.com/)
