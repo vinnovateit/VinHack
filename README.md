@@ -120,6 +120,15 @@ No, anyone member should be present all the time. The team should be present for
  
 ```
 
+## HackerRank Contest
+
+[![Code to Win](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://www.hackerrank.com/vinhack2k19)
+
+It's time to win some goodies!
+[#Code2Win](https://www.hackerrank.com/vinhack2k19)
+
+Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest
+
 ## Few useful resources
 
 ### Awesome boilerplates
