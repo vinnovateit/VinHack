@@ -123,6 +123,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Browser Webextensions](#browser-webextensions)
     - [Websites](#websites)
 
+[![Help](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://github.com/vinitshahdeo)
 
 ### Android Development
 
@@ -319,6 +320,8 @@ MAC
 - [Google PWA](https://developers.google.com/web/progressive-web-apps/)
 
 ## Public APIs
+
+[![Public APIs](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://github.com/vinitshahdeo)
 
 ## Index
 
