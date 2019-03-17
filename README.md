@@ -124,8 +124,6 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Websites](#websites)
     - [IDE Templates](#ide-templates)
     - [GitHub](#github)
-- [Contributing](#contributing)
-
 
 
 ### Android Development
@@ -273,6 +271,50 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 - [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
 - [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
+
+## Documentation
+
+### Documentation
+Backend
+- [express-generator](https://www.npmjs.com/package/express-generator) 
+- [SocketIO](https://socket.io/docs/)
+- [PassportOauth2](http://www.passportjs.org/docs/)
+- [PyFlask Documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
+
+
+App Development
+- [retrofit](https://square.github.io/retrofit/)
+- [volley](https://developer.android.com/training/volley/)
+- [fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+- [FireBase Authentication](https://firebase.google.com/docs/auth/android/custom-auth)
+- [Flutter](http://flutter.io/docs)
+
+Cloud Services
+- [DigitalOcean](http://digitalocean.com/)
+- [AWS EC2](https://aws.amazon.com/ec2/)
+- [Heroku](https://www.heroku.com/)
+
+Frontend
+- [React BoilerPlate](https://github.com/react-boilerplate/react-boilerplate/tree/master/docs) 
+- [MaterializeCSS](https://materializecss.com/)
+
+AI and ML
+- [Pytorch](https://pytorch.org/docs/stable/index.html)
+- [Tensorflow](https://www.tensorflow.org/guide)
+- [Keras](https://keras.io/)
+- [OpenCV](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
+
+ UI and UX Design
+
+MAC
+- [Sketch](https://www.sketchapp.com/docs/)
+
+Windows
+- [UI Design Kit](https://www.adobe.com/in/products/xd/ui-design-kits.html)
+- [Material Design Kit](https://materialdesignkit.com/)
+- [Webflow](https://webflow.com/)
+- [Google PWA](https://developers.google.com/web/progressive-web-apps/)
+
 
 ## Code Reviewers
 
