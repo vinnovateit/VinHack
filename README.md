@@ -122,6 +122,18 @@ No, anyone member should be present all the time. The team should be present for
 
 ## HackerRank Contest
 
+```
+
+  ______   ______    _______   _______     ___      ____    __    ____  __  .__   __. 
+ /      | /  __  \  |       \ |   ____|   |__ \     \   \  /  \  /   / |  | |  \ |  | 
+|  ,----'|  |  |  | |  .--.  ||  |__         ) |     \   \/    \/   /  |  | |   \|  | 
+|  |     |  |  |  | |  |  |  ||   __|       / /       \            /   |  | |  . `  | 
+|  `----.|  `--'  | |  '--'  ||  |____     / /_        \    /\    /    |  | |  |\   | 
+ \______| \______/  |_______/ |_______|   |____|        \__/  \__/     |__| |__| \__| 
+                                                                                      
+
+```
+
 [![Code to Win](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://www.hackerrank.com/vinhack2k19)
 
 It's time to win some goodies!
