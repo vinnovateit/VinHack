@@ -144,7 +144,7 @@ Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest
 
 #### As promised, we're just a text away! Click [here](https://chat.whatsapp.com/HNol8qCVXKf4ypWVzXHzLK) to join our [WhatsApp](https://chat.whatsapp.com/HNol8qCVXKf4ypWVzXHzLK) Group or Scan the QR code below.
 
-<img src="images/vinhack-whatsapp.png" height="200px" width="200px">
+<img src="images/vinhack-whatsapp.png" height="260px" width="200px">
 
 ## Judges
 
@@ -1312,7 +1312,7 @@ MAC
 
 ## Stay Updated!
 
-<img src="images/social.png" height="200px" width="200px">
+<img src="images/social.png" height="260px" width="200px">
 
 Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]()** on your timeline.
 
