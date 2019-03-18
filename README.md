@@ -148,20 +148,19 @@ Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest
 
 ## Judging Criteria
 
-Teams will be judged on these three criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
+Teams will be judged on these five criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
 
 - **Technology:** How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go “Wow”?
 
 - **Design:** Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).
 
 - **Completion:** Does the hack work? Did the team achieve everything they wanted?
- 
-These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
 - **Usefulness and Feasibility** - How useful and feasible your solution is? Does it  meet the purpose or goal of the given problem statement.
 
 - **Future Plans** - How can you extend your idea in future?
 
+> #### These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
 **It’s important to note that these judging criteria do not include:**
 
