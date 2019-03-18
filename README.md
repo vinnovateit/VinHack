@@ -140,6 +140,12 @@ It's time to win some goodies!
 
 Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest.
 
+## Need Help?
+
+#### As promised, we're just a text away! Click [here](https://chat.whatsapp.com/HNol8qCVXKf4ypWVzXHzLK) to join our [WhatsApp](https://chat.whatsapp.com/HNol8qCVXKf4ypWVzXHzLK) Group or Scan the QR code below.
+
+![WHATSAPP](images/vinhack-whatsapp.png)
+
 ## Judges
 
 [![JUDGES](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo/) [![JUDGES](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo/) 
