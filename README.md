@@ -146,6 +146,27 @@ Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest
 
 <img src="images/vinhack-whatsapp.png" height="260px" width="200px">
 
+## Judging Criteria
+
+Teams will be judged on these three criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
+
+- **Technology:** How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go “Wow”?
+
+- **Design:** Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).
+
+- **Completion:** Does the hack work? Did the team achieve everything they wanted?
+ 
+These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
+
+- **Usefulness and Feasibility** - How useful and feasible your solution is? Does it  meet the purpose or goal of the given problem statement.
+
+- **Future Plans** - How can you extend your idea in future?
+
+
+**It’s important to note that these judging criteria do not include:**
+
+How good your code is. It doesn’t matter if your code is messy, or not well commented, or uses inefficient algorithms. Hacking is about playing around, making mistakes, and learning new things. If your code isn’t production ready, we’re not going to mark you down.
+
 ## Judges
 
 [![JUDGES](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo/) [![JUDGES](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo/) 
