@@ -1306,7 +1306,7 @@ MAC
 
 ## Stay Updated!
 
-![scan this](./images/social.png)
+<img src="images/social.png" height="200px" width="200px">
 
 Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]()** on your timeline.
 
