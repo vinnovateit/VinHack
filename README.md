@@ -119,9 +119,16 @@ No, anyone member should be present all the time. The team should be present for
 [![Code to Win](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://www.hackerrank.com/vinhack2k19)
 
 It's time to win some goodies!
+
 [#Code2Win](https://www.hackerrank.com/vinhack2k19)
 
-Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest
+Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest.
+
+## Judges
+
+| Vinit Shahdeo | Shikhar Saxena  | Archit Roy  | Karishnu Poddar  | Shagun Khemka  |
+|---|---|---|---|---|
+| ![VinitShahdeo](https://avatars0.githubusercontent.com/u/20594326?s=460&v=4)  | ![Shikahr](https://avatars1.githubusercontent.com/u/20878172?s=400&v=4)  | ![Archit]()  | ![Karishnu](https://avatars1.githubusercontent.com/u/5600938?s=460&v=4)  | ![shagun](https://media.licdn.com/dms/image/C5103AQF02ihMPfX4tQ/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=iIPebH8_ZFdC-Ylw_KDIhKWaCjjDe8rgAtfRHizCxL0)  |
 
 ## Few useful resources
 
