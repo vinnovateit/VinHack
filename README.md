@@ -87,10 +87,6 @@ The entire idea need not be fully implemented however, the submission should be 
 No, anyone member should be present all the time. The team should be present for the pitching round.
 </details>
 <br>
-<details open>
-    <summary><strong>Does the entire team have to be available for the entire duration of the Hackathon?  </strong></summary>
-No, anyone member should be present all the time. The team should be present for the pitching round.
-</details>
 
 ## Cash Prizes
 
@@ -101,6 +97,12 @@ No, anyone member should be present all the time. The team should be present for
 - Third Prize - ***INR 2000/-***
 
 > There will be swags for all the participants!
+
+## Problem Statements
+
+[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://vinnovateit.com)
+
+> Will be made live once the hack starts!
 
 ## Where to upload your code?
 
@@ -116,6 +118,18 @@ No, anyone member should be present all the time. The team should be present for
 
 ## HackerRank Contest
 
+```
+
+  ______   ______    _______   _______     ___      ____    __    ____  __  .__   __. 
+ /      | /  __  \  |       \ |   ____|   |__ \     \   \  /  \  /   / |  | |  \ |  | 
+|  ,----'|  |  |  | |  .--.  ||  |__         ) |     \   \/    \/   /  |  | |   \|  | 
+|  |     |  |  |  | |  |  |  ||   __|       / /       \            /   |  | |  . `  | 
+|  `----.|  `--'  | |  '--'  ||  |____     / /_        \    /\    /    |  | |  |\   | 
+ \______| \______/  |_______/ |_______|   |____|        \__/  \__/     |__| |__| \__| 
+                                                                                      
+
+```
+
 [![Code to Win](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://www.hackerrank.com/vinhack2k19)
 
 It's time to win some goodies!
@@ -128,7 +142,7 @@ Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest
 
 #### Meet our honorable guests and judges who will ignite the hackathon with their presence!
 
-| <img src="https://avatars0.githubusercontent.com/u/20594326?s=460&v=4" width="100px" height="100px"> | <img src="https://media.licdn.com/dms/image/C5103AQF6ARcptDKBZw/profile-displayphoto-shrink_200_200/0?e=1556755200&v=beta&t=okYYa6zWEGXf7u0PtIVmU2CNnt6ERxnX31bjYslxZRY" width="100px" height="100px"> | <img src="https://avatars1.githubusercontent.com/u/20878172?s=400&v=4" width="100px" height="100px"> | <img src="https://pbs.twimg.com/profile_images/1056669795200856064/sv_xslfi_400x400.jpg" width="100px" height="100px">  | <img src="https://avatars1.githubusercontent.com/u/5600938?s=460&v=4" width="100px" height="100px">  | <img src="https://media.licdn.com/dms/image/C5103AQF02ihMPfX4tQ/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=iIPebH8_ZFdC-Ylw_KDIhKWaCjjDe8rgAtfRHizCxL0" width="100px" height="100px"> |
+| <img src="images/vinit_shahdeo.jpg" width="100px" height="100px"> | <img src="https://media.licdn.com/dms/image/C5103AQF6ARcptDKBZw/profile-displayphoto-shrink_200_200/0?e=1556755200&v=beta&t=okYYa6zWEGXf7u0PtIVmU2CNnt6ERxnX31bjYslxZRY" width="100px" height="100px"> | <img src="https://avatars1.githubusercontent.com/u/20878172?s=400&v=4" width="100px" height="100px"> | <img src="https://pbs.twimg.com/profile_images/1056669795200856064/sv_xslfi_400x400.jpg" width="100px" height="100px">  | <img src="https://avatars1.githubusercontent.com/u/5600938?s=460&v=4" width="100px" height="100px">  | <img src="https://media.licdn.com/dms/image/C5103AQF02ihMPfX4tQ/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=iIPebH8_ZFdC-Ylw_KDIhKWaCjjDe8rgAtfRHizCxL0" width="100px" height="100px"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Vinit Shahdeo](https://github.com/vinitshahdeo/) <br> Postman | [Sharmishtha Dash](https://www.linkedin.com/in/sharmishtha-dash) <br> Uniqlo | [Shikhar Saxena](https://github.com/shikhar29111996) <br> Oyo  | [Archit Roy](https://www.linkedin.com/in/archit-roy-4aa73612b/) <br> HeyMaths  | [Karishnu Poddar](https://github.com/karishnu) <br> Postman | [Shagun Khemka](https://github.com/S2606) <br> InstaMojo  |
 
@@ -154,6 +168,21 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Websites](#websites)
 
 [![Help](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://github.com/vinitshahdeo)
+
+```
+
+
+  ____   ____ _____ _      ______ _____  _____  _            _______ ______  _____ 
+ |  _ \ / __ \_   _| |    |  ____|  __ \|  __ \| |        /\|__   __|  ____|/ ____|
+ | |_) | |  | || | | |    | |__  | |__) | |__) | |       /  \  | |  | |__  | (___  
+ |  _ <| |  | || | | |    |  __| |  _  /|  ___/| |      / /\ \ | |  |  __|  \___ \ 
+ | |_) | |__| || |_| |____| |____| | \ \| |    | |____ / ____ \| |  | |____ ____) |
+ |____/ \____/_____|______|______|_|  \_\_|    |______/_/    \_\_|  |______|_____/ 
+                                                                                   
+                                                                                   
+
+
+```
 
 ### Android Development
 
@@ -303,6 +332,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ## Documentation
 
+![DOCs](https://inch-ci.org/assets/badge-example-b71f9e833318f66f64b3f23877113051.svg)
+
 [![You didn't ask for this](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/vinitshahdeo) [![Documentation](https://forthebadge.com/images/badges/not-an-issue.svg)](https://github.com/vinitshahdeo) 
 
 **Backend**
@@ -403,6 +434,17 @@ MAC
 * [Vehicle](#vehicle)
 * [Video](#video)
 * [Weather](#weather)
+
+```
+   _____            _            _____ _____     
+  / ____|          | |     /\   |  __ \_   _|    
+ | |     ___   ___ | |    /  \  | |__) || |  ___ 
+ | |    / _ \ / _ \| |   / /\ \ |  ___/ | | / __|
+ | |___| (_) | (_) | |  / ____ \| |    _| |_\__ \
+  \_____\___/ \___/|_| /_/    \_\_|   |_____|___/
+                                                 
+                                                 
+```
 
 ### Animals
 
