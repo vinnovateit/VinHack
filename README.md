@@ -106,6 +106,10 @@ No, anyone member should be present all the time. The team should be present for
 
 > Will be made live once the hack starts!
 
+## Find Your Team?
+
+> ### Kindly [check this](https://docs.google.com/spreadsheets/d/1GP3_v09IV2L-cm-hBafJjnw9aLhDhVNWkDkWyhekRqo/edit?usp=sharing) to find your team details. Facing troubles, call any of our Coordinators.
+
 ## Where to upload your code?
 
 > Whatever code you write must be pushed on GitHub for the review. The source code will be made open source under [VinnovateIT](https://github.com/vinnovateit/) organization. **For any kind of help, call any of our Coordinators!**
