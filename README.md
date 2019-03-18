@@ -133,9 +133,18 @@ No, anyone member should be present all the time. The team should be present for
 [![Code to Win](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://www.hackerrank.com/vinhack2k19)
 
 It's time to win some goodies!
+
 [#Code2Win](https://www.hackerrank.com/vinhack2k19)
 
-Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest
+Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest.
+
+## Judges
+
+#### Meet our honorable guests and judges who will ignite the hackathon with their presence!
+
+| <img src="https://avatars0.githubusercontent.com/u/20594326?s=460&v=4" width="100px" height="100px"> | <img src="https://media.licdn.com/dms/image/C5103AQF6ARcptDKBZw/profile-displayphoto-shrink_200_200/0?e=1556755200&v=beta&t=okYYa6zWEGXf7u0PtIVmU2CNnt6ERxnX31bjYslxZRY" width="100px" height="100px"> | <img src="https://avatars1.githubusercontent.com/u/20878172?s=400&v=4" width="100px" height="100px"> | <img src="https://pbs.twimg.com/profile_images/1056669795200856064/sv_xslfi_400x400.jpg" width="100px" height="100px">  | <img src="https://avatars1.githubusercontent.com/u/5600938?s=460&v=4" width="100px" height="100px">  | <img src="https://media.licdn.com/dms/image/C5103AQF02ihMPfX4tQ/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=iIPebH8_ZFdC-Ylw_KDIhKWaCjjDe8rgAtfRHizCxL0" width="100px" height="100px"> |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Vinit Shahdeo](https://github.com/vinitshahdeo/) <br> Postman | [Sharmishtha Dash](https://www.linkedin.com/in/sharmishtha-dash) <br> Uniqlo | [Shikhar Saxena](https://github.com/shikhar29111996) <br> Oyo  | [Archit Roy](https://www.linkedin.com/in/archit-roy-4aa73612b/) <br> HeyMaths  | [Karishnu Poddar](https://github.com/karishnu) <br> Postman | [Shagun Khemka](https://github.com/S2606) <br> InstaMojo  |
 
 ## Few useful resources
 
