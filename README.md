@@ -88,6 +88,8 @@ No, anyone member should be present all the time. The team should be present for
 </details>
 <br>
 
+> ### Are you looking for the team, please fill [this](https://goo.gl/forms/C7xiLrIKg11BPQ2d2) form!
+
 ## Cash Prizes
 
 [![Prizes](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://vinhack.hackerearth.com/)
