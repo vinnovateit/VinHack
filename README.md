@@ -220,6 +220,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ### Android Development
 
+[![ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)](https://github.com/vinitshahdeo)
+
 *Boilerplates and templates for Android*
 
 - [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
@@ -237,6 +239,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ### IOS Development.
 
+[![swift](https://forthebadge.com/images/badges/made-with-swift.svg)](https://github.com/vinitshahdeo)
+
 *Boilerplates and templates for IOS*
 
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
@@ -244,6 +248,8 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
 ### JavaScript
+
+[![JS](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/vinitshahdeo)
 
 *Boilerplates and templates for JavaScript*
 
@@ -297,6 +303,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 
 ### Python
+[![PYTHON](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/vinitshahdeo)
 
 *Boilerplates and templates for Python*
 - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
@@ -338,6 +345,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ### Go
 
+[![GO](https://forthebadge.com/images/badges/made-with-go.svg)](https://github.com/vinitshahdeo)
+
 *Boilerplates and templates for Go*
 
 - [Go React JSX Boilerplate](https://github.com/sharath/go-react-boilerplate) Starter code for a React + Go web application
@@ -352,6 +361,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 
 ### Websites
+
+[![HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/vinitshahdeo) [![CSS](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/vinitshahdeo) [![JS](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/vinitshahdeo)
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
