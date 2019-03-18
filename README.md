@@ -1306,6 +1306,8 @@ MAC
 
 ## Stay Updated!
 
+![scan this](./images/social.png)
+
 Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]()** on your timeline.
 
 ### Hope to see you there!
