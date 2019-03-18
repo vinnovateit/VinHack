@@ -87,10 +87,6 @@ The entire idea need not be fully implemented however, the submission should be 
 No, anyone member should be present all the time. The team should be present for the pitching round.
 </details>
 <br>
-<details open>
-    <summary><strong>Does the entire team have to be available for the entire duration of the Hackathon?  </strong></summary>
-No, anyone member should be present all the time. The team should be present for the pitching round.
-</details>
 
 ## Cash Prizes
 
