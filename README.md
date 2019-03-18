@@ -1295,7 +1295,6 @@ MAC
 | [Yahoo! Weather](https://developer.yahoo.com/weather/) | Weather | `apiKey` | Yes | Unknown |
 
 
-
 ## Code Reviewers
 
 [![Reviewers](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://github.com/vinitshahdeo)
@@ -1303,6 +1302,10 @@ MAC
 - [Vinit Shahdeo](https://github.com/vinitshahdeo)
 - [Shagun Khemka](https://github.com/S2606)
 - [Shreya Anand](https://github.com/ShreyaAnand)
+
+## Presentation
+
+You're allowed to use only the [template]() provided by us. You can find the PPT template [here](). Once your PPT is ready, kindly mail us @ [vinnovateit@gmail.com]()!
 
 ## Sponsors
 
