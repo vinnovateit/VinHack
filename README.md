@@ -1352,7 +1352,7 @@ You're allowed to use only the [template]() provided by us. You can find the PPT
 
 ## Contact
 
-#### Anything urgent, call us @ [+91-9994632205](#Need Help?), [8252369060](#Need Help?)
+#### Anything urgent, call us @ [+91-9994632205](#need-help), [8252369060](#need-help)
 
 ## Stay Updated!
 
