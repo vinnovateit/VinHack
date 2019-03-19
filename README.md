@@ -122,6 +122,8 @@ No, anyone member should be present all the time. The team should be present for
  
 ```
 
+> ### Click [here]() to view the live updates. 
+
 ## HackerRank Contest
 
 ```
@@ -1347,6 +1349,10 @@ You're allowed to use only the [template]() provided by us. You can find the PPT
 | [MoveInSync](https://www.moveinsync.com/)  | [HackerEarth](https://www.hackerearth.com/)  | [Bugsee](https://www.bugsee.com/)  | [Coding Blocks](https://codingblocks.com/)   |
 |---|---|---|---|
 | <img src="./sponsors/moveinsync.png" width="64px" height="64px">  | <img src="./sponsors/HackerEarth_logo.png" width="64px" height="64px">  | <img src="./sponsors/bugsee.png" width="64px" height="64px">  | <img src="./sponsors/codingblocks-logo.png" width="64px" height="64px">  |
+
+## Contact
+
+#### Anything urgent, call us @ [+91-9994632205](#Need Help?), [8252369060](#Need Help?)
 
 ## Stay Updated!
 
