@@ -106,6 +106,10 @@ No, anyone member should be present all the time. The team should be present for
 
 > Will be made live once the hack starts!
 
+## Find Your Team?
+
+> ### Kindly [check this](https://docs.google.com/spreadsheets/d/1GP3_v09IV2L-cm-hBafJjnw9aLhDhVNWkDkWyhekRqo/edit?usp=sharing) to find your team details. Facing troubles, call any of our Coordinators.
+
 ## Where to upload your code?
 
 > Whatever code you write must be pushed on GitHub for the review. The source code will be made open source under [VinnovateIT](https://github.com/vinnovateit/) organization. **For any kind of help, call any of our Coordinators!**
@@ -117,6 +121,8 @@ No, anyone member should be present all the time. The team should be present for
  git push
  
 ```
+
+> ### Click [here]() to view the live updates. 
 
 ## HackerRank Contest
 
@@ -139,6 +145,32 @@ It's time to win some goodies!
 [#Code2Win](https://www.hackerrank.com/vinhack2k19)
 
 Click [here](https://www.hackerrank.com/vinhack2k19) to register for the contest.
+
+## Need Help?
+
+#### As promised, we're just a text away! Click [here](https://chat.whatsapp.com/HNol8qCVXKf4ypWVzXHzLK) to join our [WhatsApp](https://chat.whatsapp.com/HNol8qCVXKf4ypWVzXHzLK) Group or Scan the QR code below.
+
+<img src="images/vinhack-whatsapp.png" height="260px" width="200px">
+
+## Judging Criteria
+
+Teams will be judged on these five criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
+
+- **Technology:** How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go “Wow”?
+
+- **Design:** Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).
+
+- **Completion:** Does the hack work? Did the team achieve everything they wanted?
+
+- **Usefulness and Feasibility** - How useful and feasible your solution is? Does it  meet the purpose or goal of the given problem statement.
+
+- **Future Plans** - How can you extend your idea in future?
+
+> #### These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
+
+**It’s important to note that these judging criteria do not include:**
+
+How good your code is. It doesn’t matter if your code is messy, or not well commented, or uses inefficient algorithms. Hacking is about playing around, making mistakes, and learning new things. If your code isn’t production ready, we’re not going to mark you down.
 
 ## Judges
 
@@ -190,6 +222,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ### Android Development
 
+[![ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)](https://github.com/vinitshahdeo)
+
 *Boilerplates and templates for Android*
 
 - [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
@@ -207,6 +241,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ### IOS Development.
 
+[![swift](https://forthebadge.com/images/badges/made-with-swift.svg)](https://github.com/vinitshahdeo)
+
 *Boilerplates and templates for IOS*
 
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
@@ -214,6 +250,8 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
 ### JavaScript
+
+[![JS](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/vinitshahdeo)
 
 *Boilerplates and templates for JavaScript*
 
@@ -267,6 +305,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 
 ### Python
+[![PYTHON](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/vinitshahdeo)
 
 *Boilerplates and templates for Python*
 - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
@@ -308,6 +347,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 ### Go
 
+[![GO](https://forthebadge.com/images/badges/made-with-go.svg)](https://github.com/vinitshahdeo)
+
 *Boilerplates and templates for Go*
 
 - [Go React JSX Boilerplate](https://github.com/sharath/go-react-boilerplate) Starter code for a React + Go web application
@@ -322,6 +363,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 
 ### Websites
+
+[![HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/vinitshahdeo) [![CSS](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/vinitshahdeo) [![JS](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/vinitshahdeo)
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
@@ -1289,7 +1332,6 @@ MAC
 | [Yahoo! Weather](https://developer.yahoo.com/weather/) | Weather | `apiKey` | Yes | Unknown |
 
 
-
 ## Code Reviewers
 
 [![Reviewers](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://github.com/vinitshahdeo)
@@ -1298,13 +1340,23 @@ MAC
 - [Shagun Khemka](https://github.com/S2606)
 - [Shreya Anand](https://github.com/ShreyaAnand)
 
+## Presentation
+
+You're allowed to use only the [template]() provided by us. You can find the PPT template [here](). Once your PPT is ready, kindly mail us @ [vinnovateit@gmail.com]()!
+
 ## Sponsors
 
 | [MoveInSync](https://www.moveinsync.com/)  | [HackerEarth](https://www.hackerearth.com/)  | [Bugsee](https://www.bugsee.com/)  | [Coding Blocks](https://codingblocks.com/)   |
 |---|---|---|---|
 | <img src="./sponsors/moveinsync.png" width="64px" height="64px">  | <img src="./sponsors/HackerEarth_logo.png" width="64px" height="64px">  | <img src="./sponsors/bugsee.png" width="64px" height="64px">  | <img src="./sponsors/codingblocks-logo.png" width="64px" height="64px">  |
 
+## Contact
+
+#### Anything urgent, call us @ [+91-9994632205](#need-help), [8252369060](#need-help)
+
 ## Stay Updated!
+
+<img src="images/social.png" height="260px" width="200px">
 
 Like our **[Facebook](https://www.facebook.com/VinnovateIT/)** page to keep yourself updated. We'd love to see **[#VinHack]()** on your timeline.
 
