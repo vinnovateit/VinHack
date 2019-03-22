@@ -1352,7 +1352,7 @@ You're allowed to use only the [template](https://drive.google.com/file/d/1spunu
 
 ## Contact
 
-#### Anything urgent, call us @ [+91-9994632205](#need-help), [8252369060](#need-help)
+#### Anything urgent, call us @ [+91-9994632205](#need-help), [8252369060](#need-help)!
 
 ## Stay Updated!
 
