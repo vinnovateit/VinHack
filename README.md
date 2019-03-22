@@ -1342,7 +1342,7 @@ MAC
 
 ## Presentation
 
-You're allowed to use only the [template]() provided by us. You can find the PPT template [here](). Once your PPT is ready, kindly mail us @ [vinnovateit@gmail.com]()!
+You're allowed to use only the [template](https://drive.google.com/file/d/1spunuuPnP0IVR5PWyf8S5JyA8b2ftU3o/view?usp=sharing) provided by us. You can find the PPT template [here](https://drive.google.com/file/d/1spunuuPnP0IVR5PWyf8S5JyA8b2ftU3o/view?usp=sharing). Once your PPT is ready, kindly mail us @ [vinnovateit@gmail.com]()!
 
 ## Sponsors
 
