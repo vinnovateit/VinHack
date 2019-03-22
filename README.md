@@ -104,7 +104,7 @@ No, anyone member should be present all the time. The team should be present for
 
 [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://vinnovateit.com)
 
-> Will be made live once the hack starts!
+> [Click here](https://drive.google.com/file/d/140W1UBMBeuhdIZoxHa3xjUVNwkaa1Yzr/view?usp=sharing) to view the problem statements.
 
 ## Find Your Team?
 
