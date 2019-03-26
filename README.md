@@ -104,7 +104,7 @@ No, anyone member should be present all the time. The team should be present for
 
 [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://vinnovateit.com)
 
-> Will be made live once the hack starts!
+> [Click here](https://drive.google.com/file/d/140W1UBMBeuhdIZoxHa3xjUVNwkaa1Yzr/view?usp=sharing) to view the problem statements.
 
 ## Find Your Team?
 
@@ -178,7 +178,7 @@ How good your code is. It doesn’t matter if your code is messy, or not well co
 
 #### Meet our honorable guests and judges who will ignite the hackathon with their presence!
 
-| <img src="images/vinit_shahdeo.jpg" width="100px" height="100px"> | <img src="https://media.licdn.com/dms/image/C5103AQF6ARcptDKBZw/profile-displayphoto-shrink_200_200/0?e=1556755200&v=beta&t=okYYa6zWEGXf7u0PtIVmU2CNnt6ERxnX31bjYslxZRY" width="100px" height="100px"> | <img src="https://avatars1.githubusercontent.com/u/20878172?s=400&v=4" width="100px" height="100px"> | <img src="https://pbs.twimg.com/profile_images/1056669795200856064/sv_xslfi_400x400.jpg" width="100px" height="100px">  | <img src="https://avatars1.githubusercontent.com/u/5600938?s=460&v=4" width="100px" height="100px">  | <img src="https://media.licdn.com/dms/image/C5103AQF02ihMPfX4tQ/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=iIPebH8_ZFdC-Ylw_KDIhKWaCjjDe8rgAtfRHizCxL0" width="100px" height="100px"> |
+| <img src="images/vinit_shahdeo.jpg" width="100px" height="100px"> | <img src="https://media.licdn.com/dms/image/C5103AQF6ARcptDKBZw/profile-displayphoto-shrink_200_200/0?e=1556755200&v=beta&t=okYYa6zWEGXf7u0PtIVmU2CNnt6ERxnX31bjYslxZRY" width="100px" height="100px"> | <img src="https://avatars1.githubusercontent.com/u/20878172?s=400&v=4" width="100px" height="100px"> | <img src="https://pbs.twimg.com/profile_images/1056669795200856064/sv_xslfi_400x400.jpg" width="100px" height="100px">  | <img src="https://avatars1.githubusercontent.com/u/5600938?s=460&v=4" width="100px" height="100px">  | <img src="images/shagun.jpeg" width="100px" height="100px"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Vinit Shahdeo](https://github.com/vinitshahdeo/) <br> Postman | [Sharmishtha Dash](https://www.linkedin.com/in/sharmishtha-dash) <br> Uniqlo | [Shikhar Saxena](https://github.com/shikhar29111996) <br> Oyo  | [Archit Roy](https://www.linkedin.com/in/archit-roy-4aa73612b/) <br> HeyMaths  | [Karishnu Poddar](https://github.com/karishnu) <br> Postman | [Shagun Khemka](https://github.com/S2606) <br> InstaMojo  |
 
@@ -1342,7 +1342,7 @@ MAC
 
 ## Presentation
 
-You're allowed to use only the [template]() provided by us. You can find the PPT template [here](). Once your PPT is ready, kindly mail us @ [vinnovateit@gmail.com]()!
+You're allowed to use only the [template](https://drive.google.com/file/d/1spunuuPnP0IVR5PWyf8S5JyA8b2ftU3o/view?usp=sharing) provided by us. You can find the PPT template [here](https://drive.google.com/file/d/1spunuuPnP0IVR5PWyf8S5JyA8b2ftU3o/view?usp=sharing). Once your PPT is ready, kindly mail us @ [vinnovateit@gmail.com]()!
 
 ## Sponsors
 
@@ -1352,7 +1352,7 @@ You're allowed to use only the [template]() provided by us. You can find the PPT
 
 ## Contact
 
-#### Anything urgent, call us @ [+91-9994632205](#need-help), [8252369060](#need-help)
+#### Anything urgent, call us @ [+91-9994632205](#need-help), [8252369060](#need-help)!
 
 ## Stay Updated!
 
