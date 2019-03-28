@@ -1344,6 +1344,10 @@ MAC
 
 You're allowed to use only the [template](https://drive.google.com/file/d/1spunuuPnP0IVR5PWyf8S5JyA8b2ftU3o/view?usp=sharing) provided by us. You can find the PPT template [here](https://drive.google.com/file/d/1spunuuPnP0IVR5PWyf8S5JyA8b2ftU3o/view?usp=sharing). Once your PPT is ready, kindly mail us @ [vinnovateit@gmail.com]()!
 
+## Quiz Contest
+
+Check out the Quiz [here](https://docs.google.com/presentation/d/1ewAEOn5QIVFbRP7Ap4JJst_PrfJu6nxCIn28AhWpoiU/edit?usp=sharing). (Taken by [Vinit Shahdeo](https://twitter.com/Vinit_Shahdeo)
+
 ## Sponsors
 
 | [MoveInSync](https://www.moveinsync.com/)  | [HackerEarth](https://www.hackerearth.com/)  | [Bugsee](https://www.bugsee.com/)  | [Coding Blocks](https://codingblocks.com/)   |
